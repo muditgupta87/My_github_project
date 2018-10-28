@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 68DF-8842
+
+ Directory of C:\git_clone\My_github_project
+
+10/28/2018  07:11 PM    <DIR>          .
+10/28/2018  07:11 PM    <DIR>          ..
+10/28/2018  07:11 PM                 0 file1.txt
+10/28/2018  07:09 PM               339 README.md
+               2 File(s)            339 bytes
+               2 Dir(s)  310,430,355,456 bytes free
